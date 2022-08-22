@@ -1,0 +1,5 @@
+qrcode
+clavier
+phone
+mouse
+laptop
